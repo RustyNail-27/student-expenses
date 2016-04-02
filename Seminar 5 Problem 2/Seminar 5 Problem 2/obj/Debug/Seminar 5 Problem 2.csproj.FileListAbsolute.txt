@@ -1,0 +1,9 @@
+c:\users\russ\documents\visual studio 2013\Projects\Seminar 5 Problem 2\Seminar 5 Problem 2\bin\Debug\Seminar 5 Problem 2.exe.config
+c:\users\russ\documents\visual studio 2013\Projects\Seminar 5 Problem 2\Seminar 5 Problem 2\bin\Debug\Seminar 5 Problem 2.exe
+c:\users\russ\documents\visual studio 2013\Projects\Seminar 5 Problem 2\Seminar 5 Problem 2\bin\Debug\Seminar 5 Problem 2.pdb
+c:\users\russ\documents\visual studio 2013\Projects\Seminar 5 Problem 2\Seminar 5 Problem 2\obj\Debug\Seminar 5 Problem 2.csprojResolveAssemblyReference.cache
+c:\users\russ\documents\visual studio 2013\Projects\Seminar 5 Problem 2\Seminar 5 Problem 2\obj\Debug\Seminar_5_Problem_2.Form1.resources
+c:\users\russ\documents\visual studio 2013\Projects\Seminar 5 Problem 2\Seminar 5 Problem 2\obj\Debug\Seminar_5_Problem_2.Properties.Resources.resources
+c:\users\russ\documents\visual studio 2013\Projects\Seminar 5 Problem 2\Seminar 5 Problem 2\obj\Debug\Seminar 5 Problem 2.csproj.GenerateResource.Cache
+c:\users\russ\documents\visual studio 2013\Projects\Seminar 5 Problem 2\Seminar 5 Problem 2\obj\Debug\Seminar 5 Problem 2.exe
+c:\users\russ\documents\visual studio 2013\Projects\Seminar 5 Problem 2\Seminar 5 Problem 2\obj\Debug\Seminar 5 Problem 2.pdb
